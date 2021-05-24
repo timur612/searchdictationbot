@@ -4,7 +4,7 @@
 ```python
 pip install -r requirements.txt
 ```
-создайте файл config.py, где создайте
+создайте файл config.py, где напишите
 ```python
 settings = {
     'token': 'TOKEN',
